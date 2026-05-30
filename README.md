@@ -41,15 +41,6 @@ Physics-based electrochemical model of a Na-ion battery in COMSOL, co-simulated 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehulA-06&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehulA-06&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📫 Get in touch
 - Email : mehul23101@iiitnr.edu.in
 - LinkedIn : www.linkedin.com/in/mehul-agrawal-340975288
